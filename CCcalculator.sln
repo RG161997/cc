@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCcalculator", "CCcalculator\CCcalculator.csproj", "{EEF39148-2F09-4AE2-BD5F-A45F76834506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF39148-2F09-4AE2-BD5F-A45F76834506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF39148-2F09-4AE2-BD5F-A45F76834506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF39148-2F09-4AE2-BD5F-A45F76834506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF39148-2F09-4AE2-BD5F-A45F76834506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3FBE59A-842B-4C02-82FE-5ED993C92605}
+	EndGlobalSection
+EndGlobal

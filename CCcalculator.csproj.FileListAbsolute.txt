@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\CCcalculator\CCcalculator\bin\Debug\netcoreapp3.1\CCcalculator.exe
+C:\Users\user\source\repos\CCcalculator\CCcalculator\bin\Debug\netcoreapp3.1\CCcalculator.deps.json
+C:\Users\user\source\repos\CCcalculator\CCcalculator\bin\Debug\netcoreapp3.1\CCcalculator.runtimeconfig.json
+C:\Users\user\source\repos\CCcalculator\CCcalculator\bin\Debug\netcoreapp3.1\CCcalculator.runtimeconfig.dev.json
+C:\Users\user\source\repos\CCcalculator\CCcalculator\bin\Debug\netcoreapp3.1\CCcalculator.dll
+C:\Users\user\source\repos\CCcalculator\CCcalculator\bin\Debug\netcoreapp3.1\CCcalculator.pdb
+C:\Users\user\source\repos\CCcalculator\CCcalculator\obj\Debug\netcoreapp3.1\CCcalculator.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CCcalculator\CCcalculator\obj\Debug\netcoreapp3.1\CCcalculator.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CCcalculator\CCcalculator\obj\Debug\netcoreapp3.1\CCcalculator.AssemblyInfo.cs
+C:\Users\user\source\repos\CCcalculator\CCcalculator\obj\Debug\netcoreapp3.1\CCcalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CCcalculator\CCcalculator\obj\Debug\netcoreapp3.1\CCcalculator.dll
+C:\Users\user\source\repos\CCcalculator\CCcalculator\obj\Debug\netcoreapp3.1\CCcalculator.pdb
+C:\Users\user\source\repos\CCcalculator\CCcalculator\obj\Debug\netcoreapp3.1\CCcalculator.genruntimeconfig.cache
